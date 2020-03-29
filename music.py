@@ -7,8 +7,8 @@ import webbrowser
 #variables for music player
 username="dludfugf17jl42f9qvlbkjbnc"
 scope = 'user-library-read'
-client_id="eee90afdccc442fea8a0f2070b1fb507"
-client_secret="53e0945705f24f429828825aef9fa52a"
+client_id="Enter your own client id"
+client_secret="Enter your own client secret "
 redirect_uri="https://google.com"
 happy=["alt-rock","happy","hard-rock"]
 sad=["sad","death-metal","black-metal"]
