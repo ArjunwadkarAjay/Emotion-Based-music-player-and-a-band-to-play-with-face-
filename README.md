@@ -12,3 +12,6 @@ The unique point which I added is described as:
 Today, people sit in front of the screen for long hours.During this there is almost no movement of face and the eyes.
 
 So , in this project I have added a part Play Band where by few actions like closing one eye,closing both eyes, moving the face to right,left,top,etc and play music tone of drumroll,Triangles,Cymbals,etc...
+
+
+For executing the project run the main.py file.
