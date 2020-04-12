@@ -15,3 +15,7 @@ So , in this project I have added a part Play Band where by few actions like clo
 
 
 For executing the project run the main.py file.
+
+
+Note use your own client secret Id for using the Spotify API 
+Before using it add it in the music section .
